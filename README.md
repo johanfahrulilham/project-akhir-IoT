@@ -3,4 +3,4 @@ Membuat sistem monitoring suhu real-time dan sistem alarm dengan menggunakan sen
 
 Johan Fahrul Ilham (G.211.19.0061)
 
-Link Video :https://youtu.be/VOL7VOOyBxY
+Link Video : https://youtu.be/VOL7VOOyBxY
